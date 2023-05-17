@@ -4,7 +4,7 @@ Passionate, self-taught, extremely motivated software engineer. Love to work wit
 
 Skills: Express, Django, Mysql, MongoDB
 
-- 🔭 I’m currently working on Node, Python 
+- 🔭 I’m currently working on Nodejs, Python 
 - 🌱 I’m currently learning Design patterns  
 - 👯 I’m looking to collaborate on web development  
 - 📫 How to reach me: nobelnaimulislam@gmail.com 
