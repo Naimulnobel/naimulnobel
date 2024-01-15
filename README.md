@@ -10,7 +10,5 @@ Skills: Node, Express, Django, Mysql, MongoDB
 - 📫 How to reach me: nobelnaimulislam@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naimulnobel)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naimulnobel&show_icons=true)  
 
